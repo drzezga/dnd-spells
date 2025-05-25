@@ -1,0 +1,555 @@
+name,classes
+Acid Splash,"Artificer, Sorcerer, Wizard"
+Blade Ward,"Bard, Sorcerer, Warlock, Wizard"
+Booming Blade,"Artificer, Sorcerer, Warlock, Wizard"
+Chill Touch,"Sorcerer, Warlock, Wizard"
+Control Flames,"Druid, Sorcerer, Wizard"
+Create Bonfire,"Druid, Sorcerer, Warlock, Wizard"
+Dancing Lights,"Artificer, Bard, Sorcerer, Wizard"
+Decompose (HB),Cleric
+Druidcraft,Druid
+Eldritch Blast,Warlock
+Encode Thoughts,Wizard
+Fire Bolt,"Artificer, Sorcerer, Wizard"
+Friends,"Bard, Sorcerer, Warlock, Wizard"
+Frostbite,"Artificer, Druid, Sorcerer, Warlock, Wizard"
+Green-Flame Blade,"Artificer, Sorcerer, Warlock, Wizard"
+Guidance,"Artificer, Cleric, Druid"
+Gust,"Druid, Sorcerer, Wizard"
+Hand of Radiance (UA),Cleric
+Infestation,"Druid, Sorcerer, Warlock, Wizard"
+Light,"Artificer, Bard, Cleric, Sorcerer, Wizard"
+Lightning Lure,"Artificer, Sorcerer, Warlock, Wizard"
+Mage Hand,"Artificer, Bard, Sorcerer, Warlock, Wizard"
+Magic Stone,"Druid, Warlock, Artificer"
+Mending,"Artificer, Bard, Cleric, Druid, Sorcerer, Wizard"
+Message,"Artificer, Bard, Sorcerer, Wizard"
+Mind Sliver,"Sorcerer, Warlock, Wizard"
+Minor Illusion,"Bard, Sorcerer, Warlock, Wizard"
+Mold Earth,"Druid, Sorcerer, Wizard"
+On/Off (UA),"Sorcerer, Warlock, Wizard"
+Poison Spray,"Artificer, Druid, Sorcerer, Warlock, Wizard"
+Prestidigitation,"Artificer, Bard, Sorcerer, Warlock, Wizard"
+Primal Savagery,Druid
+Produce Flame,Druid
+Ray of Frost,"Artificer, Sorcerer, Wizard"
+Resistance,"Artificer, Cleric, Druid"
+Sacred Flame,Cleric
+Sapping Sting,Wizard
+Shape Water,"Druid, Sorcerer, Wizard"
+Shillelagh,Druid
+Shocking Grasp,"Artificer, Sorcerer, Wizard"
+Spare the Dying,"Artificer, Cleric"
+Sword Burst,"Artificer, Sorcerer, Warlock, Wizard"
+Thaumaturgy,Cleric
+Thorn Whip,"Artificer, Druid"
+Thunderclap,"Bard, Druid, Sorcerer, Warlock, Wizard, Artificer"
+Toll the Dead,"Cleric, Warlock, Wizard"
+True Strike,"Bard, Sorcerer, Warlock, Wizard"
+Vicious Mockery,Bard
+Virtue (UA),Cleric
+Word of Radiance,Cleric
+Absorb Elements,"Artificer, Druid, Ranger, Sorcerer, Wizard"
+Acid Stream (UA),"Sorcerer, Wizard"
+Alarm,"Artificer, Ranger, Wizard"
+Animal Friendship,"Bard, Druid, Ranger"
+Arcane Weapon (UA),Artificer
+Armor of Agathys,Warlock
+Arms of Hadar,Warlock
+Bane,"Bard, Cleric"
+Beast Bond,"Druid, Ranger"
+Bless,"Cleric, Paladin"
+Burning Hands,"Sorcerer, Wizard"
+Catapult,"Artificer, Sorcerer, Wizard"
+Cause Fear,"Warlock, Wizard"
+Ceremony,"Cleric, Paladin"
+Chaos Bolt,Sorcerer
+Charm Person,"Bard, Druid, Sorcerer, Warlock, Wizard"
+Chromatic Orb,"Sorcerer, Wizard"
+Color Spray,"Bard, Sorcerer, Wizard"
+Command,"Bard, Cleric, Paladin"
+Compelled Duel,Paladin
+Comprehend Languages,"Bard, Sorcerer, Warlock, Wizard"
+Create or Destroy Water,"Cleric, Druid"
+Cure Wounds,"Artificer, Bard, Cleric, Druid, Paladin, Ranger"
+Detect Evil and Good,"Cleric, Paladin"
+Detect Magic,"Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Wizard"
+Detect Poison and Disease,"Cleric, Druid, Paladin, Ranger"
+Disguise Self,"Artificer, Bard, Sorcerer, Wizard"
+Dissonant Whispers,Bard
+Distort Value,"Bard, Sorcerer, Warlock, Wizard"
+Divine Favor,Paladin
+Earth Tremor,"Bard, Druid, Sorcerer, Wizard"
+Ensnaring Strike,Ranger
+Entangle,"Druid, Ranger"
+Expeditious Retreat,"Artificer, Sorcerer, Warlock, Wizard"
+Faerie Fire,"Artificer, Bard, Druid"
+False Life,"Artificer, Sorcerer, Wizard"
+Feather Fall,"Artificer, Bard, Sorcerer, Wizard"
+Find Familiar,Wizard
+Fog Cloud,"Druid, Ranger, Sorcerer, Wizard"
+Frost Fingers,Wizard
+Gift of Alacrity,Wizard
+Goodberry,"Druid, Ranger"
+Grease,"Artificer, Sorcerer, Wizard"
+Guiding Bolt,Cleric
+Guiding Hand (UA),"Bard, Cleric, Druid, Wizard"
+Hail of Thorns,Ranger
+Healing Elixir (UA),"Warlock, Wizard"
+Healing Word,"Bard, Cleric, Druid"
+Hellish Rebuke,Warlock
+Heroism,"Bard, Paladin"
+Hex,Warlock
+Hunter's Mark,Ranger
+Ice Knife,"Druid, Sorcerer, Wizard"
+Id Insinuation (UA),"Sorcerer, Warlock, Wizard"
+Identify,"Artificer, Bard, Wizard"
+Illusory Script,"Bard, Warlock, Wizard"
+Infallible Relay (UA),"Sorcerer, Warlock, Wizard"
+Inflict Wounds,Cleric
+Jim's Magic Missile,Wizard
+Jump,"Artificer, Druid, Ranger, Sorcerer, Wizard"
+Longstrider,"Artificer, Bard, Druid, Ranger, Wizard"
+Mage Armor,"Sorcerer, Wizard"
+Magic Missile,"Sorcerer, Wizard"
+Magnify Gravity,Wizard
+Protection from Evil and Good,"Cleric, Druid, Paladin, Warlock, Wizard"
+Puppet (UA),"Bard, Warlock, Wizard"
+Purify Food and Drink,"Artificer, Cleric, Druid, Paladin"
+Ray of Sickness,"Sorcerer, Wizard"
+Remote Access (UA),"Sorcerer, Warlock, Wizard"
+Sanctuary,"Artificer, Cleric"
+Searing Smite,"Paladin, Ranger"
+Sense Emotion (UA),"Bard, Warlock, Wizard"
+Shield,"Sorcerer, Wizard"
+Shield of Faith,"Cleric, Paladin"
+Silent Image,"Bard, Sorcerer, Wizard"
+Sleep,"Bard, Sorcerer, Wizard"
+Snare,"Artificer, Druid, Ranger, Wizard"
+Speak with Animals,"Bard, Druid, Ranger"
+Sudden Awakening (UA),"Bard, Ranger, Sorcerer, Wizard"
+Tasha's Caustic Brew,"Artificer, Sorcerer, Wizard"
+Tasha's Hideous Laughter,"Bard, Wizard"
+Tenser's Floating Disk,Wizard
+Thunderous Smite,Paladin
+Thunderwave,"Bard, Druid, Sorcerer, Wizard"
+Unearthly Chorus (UA),Bard
+Unseen Servant,"Bard, Warlock, Wizard"
+Wild Cunning (UA),"Druid, Ranger"
+Witch Bolt,"Sorcerer, Warlock, Wizard"
+Wrathful Smite,Paladin
+Zephyr Strike,Ranger
+Aganazzar's Scorcher,"Sorcerer, Wizard"
+Aid,"Artificer, Bard, Cleric, Paladin, Ranger"
+Alter Self,"Artificer, Sorcerer, Wizard"
+Animal Messenger,"Bard, Druid, Ranger"
+Arcane Hacking (UA),"Sorcerer, Warlock, Wizard"
+Arcane Lock,"Artificer, Wizard"
+Augury,"Cleric, Druid, Wizard"
+Barkskin,"Druid, Ranger"
+Beast Sense,"Druid, Ranger"
+Blindness/Deafness,"Bard, Cleric, Sorcerer, Wizard"
+Blur,"Artificer, Sorcerer, Wizard"
+Branding Smite,Paladin
+Calm Emotions,"Bard, Cleric"
+Cloud of Daggers,"Bard, Sorcerer, Warlock, Wizard"
+Continual Flame,"Artificer, Cleric, Druid, Wizard"
+Cordon of Arrows,Ranger
+Crown of Madness,"Bard, Sorcerer, Warlock, Wizard"
+Darkness,"Sorcerer, Warlock, Wizard"
+Darkvision,"Artificer, Druid, Ranger, Sorcerer, Wizard"
+Detect Thoughts,"Bard, Sorcerer, Wizard"
+Digital Phantom (UA),"Sorcerer, Warlock, Wizard"
+Dragon's Breath,"Sorcerer, Wizard"
+Dust Devil,"Druid, Sorcerer, Wizard"
+Earthbind,"Druid, Sorcerer, Warlock, Wizard"
+Enhance Ability,"Artificer, Bard, Cleric, Druid, Ranger, Sorcerer, Wizard"
+Enlarge/Reduce,"Artificer, Bard, Druid, Sorcerer, Wizard"
+Enthrall,"Bard, Warlock"
+Find Steed,Paladin
+Find Traps,"Cleric, Druid, Ranger"
+Find Vehicle (UA),"Paladin, Sorcerer, Warlock, Wizard"
+Flame Blade,"Druid, Sorcerer"
+Flaming Sphere,"Druid, Sorcerer, Wizard"
+Flock of Familiars,"Warlock, Wizard"
+Fortune's Favor,Wizard
+Gentle Repose,"Cleric, Paladin, Wizard"
+Gift of Gab,"Bard, Wizard"
+Gust of Wind,"Druid, Ranger, Sorcerer, Wizard"
+Healing Spirit,"Druid, Ranger"
+Heat Metal,"Artificer, Bard, Druid"
+Hold Person,"Bard,Cleric, Druid,Sorcerer, Warlock, Wizard"
+Icingdeath's Frost (UA),"Sorcerer, Wizard"
+Immovable Object,Wizard
+Invisibility,"Artificer, Bard, Sorcerer, Warlock, Wizard"
+Jim's Glowing Coin,Wizard
+Knock,"Bard, Sorcerer, Wizard"
+Lesser Restoration,"Artificer, Bard, Cleric, Druid, Paladin, Ranger"
+Levitate,"Artificer, Sorcerer, Wizard"
+Locate Animals or Plants,"Bard, Druid, Ranger"
+Locate Object,"Bard, Cleric, Druid, Paladin, Ranger, Wizard"
+Magic Mouth,"Artificer, Bard, Wizard"
+Magic Weapon,"Artificer, Paladin, Ranger, Sorcerer, Wizard"
+Maximillian's Earthen Grasp,"Sorcerer, Wizard"
+Melf's Acid Arrow,Wizard
+Mental Barrier (UA),"Sorcerer, Warlock, Wizard"
+Mind Spike,"Sorcerer, Warlock, Wizard"
+Mind Thrust (UA),"Sorcerer, Warlock, Wizard"
+Mirror Image,"Bard, Sorcerer, Warlock, Wizard"
+Misty Step,"Sorcerer, Warlock, Wizard"
+Moonbeam,Druid
+Nathair's Mischief (UA),"Bard, Sorcerer, Wizard"
+Nystul's Magic Aura,Wizard
+Pass Without Trace,"Druid, Ranger"
+Phantasmal Force,"Bard, Sorcerer, Wizard"
+Prayer of Healing,"Cleric, Paladin"
+Protection from Poison,"Artificer, Cleric, Druid, Paladin, Ranger"
+Pyrotechnics,"Artificer, Bard, Sorcerer, Wizard"
+Ray of Enfeeblement,"Warlock, Wizard"
+Rope Trick,"Artificer, Wizard"
+Scorching Ray,"Sorcerer, Wizard"
+See Invisibility,"Artificer, Bard, Sorcerer, Wizard"
+Shadow Blade,"Sorcerer, Warlock, Wizard"
+Shatter,"Bard, Sorcerer, Warlock, Wizard"
+Silence,"Bard, Cleric, Ranger"
+Skywrite,"Bard, Druid, Wizard, Artificer"
+Snilloc's Snowball Storm,"Sorcerer, Wizard"
+Spider Climb,"Artificer, Sorcerer, Warlock, Wizard"
+Spike Growth,"Druid, Ranger"
+Spiritual Weapon,Cleric
+Suggestion,"Bard, Sorcerer, Warlock, Wizard"
+Summon Beast,"Druid, Ranger"
+Tasha's Mind Whip,"Sorcerer, Wizard"
+Thought Shield (UA),"Sorcerer, Warlock, Wizard"
+Warding Bond,"Cleric, Paladin"
+Warding Wind,"Bard, Druid, Sorcerer, Wizard"
+Web,"Artificer, Sorcerer, Wizard"
+Wristpocket,Wizard
+Zone of Truth,"Bard, Cleric, Paladin"
+Animate Dead,"Cleric, Wizard"
+Aura of Vitality,"Cleric, Druid, Paladin"
+Beacon of Hope,Cleric
+Bestow Curse,"Bard, Cleric, Wizard"
+Blinding Smite,Paladin
+Blink,"Artificer, Sorcerer, Wizard"
+Call Lightning,Druid
+Catnap,"Artificer, Bard, Sorcerer, Wizard"
+Clairvoyance,"Bard, Cleric, Sorcerer, Wizard"
+Conjure Animals,"Druid, Ranger"
+Conjure Barrage,Ranger
+Conjure Lesser Demon (UA),"Sorcerer, Wizard"
+Counterspell,"Sorcerer, Warlock, Wizard"
+Create Food and Water,"Artificer, Cleric, Paladin"
+Crusader's Mantle,Paladin
+Daylight,"Cleric, Druid, Paladin, Ranger, Sorcerer"
+Dispel Magic,"Artificer, Bard, Cleric, Druid, Paladin, Sorcerer, Warlock, Wizard"
+Elemental Weapon,"Artificer, Druid, Paladin, Ranger"
+Enemies Abound,"Bard, Sorcerer, Warlock, Wizard"
+Erupting Earth,"Druid, Sorcerer, Wizard"
+Fast Friends,"Bard, Cleric, Wizard"
+Fear,"Bard, Sorcerer, Warlock, Wizard"
+Feign Death,"Bard, Cleric, Druid, Wizard"
+Fireball,"Sorcerer, Wizard"
+Flame Arrows,"Artificer, Druid, Ranger, Sorcerer, Wizard"
+Flame Stride (UA),"Artificer, Ranger, Sorcerer, Wizard"
+Fly,"Artificer, Sorcerer, Warlock, Wizard"
+Galder's Tower,Wizard
+Gaseous Form,"Sorcerer, Warlock, Wizard"
+Glyph of Warding,"Artificer, Bard, Cleric, Wizard"
+Haste,"Artificer, Sorcerer, Wizard"
+Haywire (UA),"Sorcerer, Warlock, Wizard"
+Hunger Of Hadar,Warlock
+Hypnotic Pattern,"Bard, Sorcerer, Warlock, Wizard"
+Incite Greed,"Cleric, Sorcerer, Warlock, Wizard"
+Intellect Fortress,"Artificer, Bard, Sorcerer, Warlock, Wizard"
+Invisibility To Cameras (UA),"Sorcerer, Warlock, Wizard"
+Leomund's Tiny Hut,"Bard, Wizard"
+Life Transference,"Cleric, Wizard"
+Lightning Arrow,Ranger
+Lightning Bolt,"Sorcerer, Wizard"
+Magic Circle,"Cleric, Paladin, Warlock, Wizard"
+Major Image,"Bard, Sorcerer, Warlock, Wizard"
+Mass Healing Word,"Bard, Cleric"
+Meld into Stone,"Cleric, Druid, Ranger"
+Melf's Minute Meteors,"Sorcerer, Wizard"
+Motivational Speech,"Bard, Cleric"
+Nondetection,"Bard, Ranger, Wizard"
+Phantom Steed,Wizard
+Plant Growth,"Bard, Druid, Ranger"
+Protection from Ballistics (UA),"Sorcerer, Warlock, Wizard"
+Protection from Energy,"Artificer, Cleric, Druid, Ranger, Sorcerer, Wizard"
+Psionic Blast (UA),"Sorcerer, Warlock, Wizard"
+Pulse Wave,Wizard
+Remove Curse,"Cleric, Paladin, Warlock, Wizard"
+Revivify,"Artificer, Cleric, Druid, Paladin, Ranger"
+Sending,"Bard, Cleric, Wizard"
+Sleet Storm,"Druid, Sorcerer, Wizard"
+Slow,"Bard, Sorcerer, Wizard"
+Speak with Dead,"Bard, Cleric, Wizard"
+Speak with Plants,"Bard, Druid, Ranger"
+Spirit Guardians,Cleric
+Spirit Shroud,"Cleric, Paladin, Warlock, Wizard"
+Stinking Cloud,"Bard, Sorcerer, Wizard"
+Summon Fey,"Druid, Ranger, Warlock, Wizard"
+Summon Lesser Demons,"Warlock, Wizard"
+Summon Shadowspawn,"Warlock, Wizard"
+Summon Undead,"Warlock, Wizard"
+Thunder Step,"Sorcerer, Warlock, Wizard"
+Tidal Wave,"Druid, Wizard"
+Tiny Servant,"Artificer, Wizard"
+Tongues,"Bard, Cleric, Sorcerer, Warlock, Wizard"
+Vampiric Touch,"Sorcerer, Warlock, Wizard"
+Wall of Sand,Wizard
+Wall of Water,"Druid, Sorcerer, Wizard"
+Water Breathing,"Artificer, Druid, Ranger, Sorcerer, Wizard"
+Water Walk,"Artificer, Cleric, Druid, Ranger, Sorcerer"
+Wind Wall,"Druid, Ranger"
+Arcane Eye,"Artificer, Wizard"
+Aura of Life,"Cleric, Paladin"
+Aura of Purity,"Cleric, Paladin"
+Banishment,"Cleric, Paladin, Sorcerer, Warlock, Wizard"
+Blight,"Druid, Sorcerer, Warlock, Wizard"
+Charm Monster,"Bard, Druid, Sorcerer, Warlock, Wizard"
+Compulsion,Bard
+Confusion,"Bard, Druid, Sorcerer, Wizard"
+Conjure Barlgura (UA),"Sorcerer, Wizard"
+Conjure Knowbot (UA),"Sorcerer, Warlock, Wizard"
+Conjure Minor Elementals,"Druid, Wizard"
+Conjure Shadow Demon (UA),"Sorcerer, Wizard"
+Conjure Woodland Beings,"Druid, Ranger"
+Control Water,"Cleric, Druid, Wizard"
+Death Ward,"Cleric, Paladin"
+Dimension Door,"Bard, Sorcerer, Warlock, Wizard"
+Divination,"Cleric, Druid, Wizard"
+Dominate Beast,"Druid, Ranger, Sorcerer"
+Ego Whip (UA),"Sorcerer, Warlock, Wizard"
+Elemental Bane,"Druid, Warlock, Wizard, Artificer"
+Evard's Black Tentacles,Wizard
+Fabricate,"Artificer, Wizard"
+Find Greater Steed,Paladin
+Fire Shield,"Druid, Sorcerer, Wizard"
+Freedom of Movement,"Artificer, Bard, Cleric, Druid, Ranger"
+Galder's Speedy Courier,"Warlock, Wizard"
+Giant Insect,Druid
+Grasping Vine,"Druid, Ranger"
+Gravity Sinkhole,Wizard
+Greater Invisibility,"Bard, Sorcerer, Wizard"
+Guardian of Faith,Cleric
+Guardian of Nature,"Druid, Ranger"
+Hallucinatory Terrain,"Bard, Druid, Warlock, Wizard"
+Ice Storm,"Druid, Sorcerer, Wizard"
+Leomund's Secret Chest,"Artificer,Wizard"
+Locate Creature,"Bard, Cleric, Druid, Paladin, Ranger, Wizard"
+Mordenkainen's Faithful Hound,"Artificer, Wizard"
+Mordenkainen's Private Sanctum,"Artificer, Wizard"
+Otiluke's Resilient Sphere,"Artificer, Wizard"
+Phantasmal Killer,"Bard, Wizard"
+Polymorph,"Bard, Druid, Sorcerer, Wizard"
+Raulothim's Psychic Lance (UA),"Bard, Sorcerer, Warlock, Wizard"
+Shadow Of Moil,Warlock
+Sickening Radiance,"Sorcerer, Warlock, Wizard"
+Staggering Smite,Paladin
+Stone Shape,"Artificer, Cleric, Druid, Wizard"
+Stoneskin,"Artificer, Druid, Ranger, Sorcerer, Wizard"
+Storm Sphere,"Sorcerer, Wizard"
+Summon Aberration,"Warlock, Wizard"
+Summon Construct,"Artificer, Wizard"
+Summon Elemental,"Druid, Ranger, Wizard"
+Summon Greater Demon,"Warlock, Wizard"
+Synchronicity (UA),"Sorcerer, Warlock, Wizard"
+System Backdoor (UA),"Sorcerer, Warlock, Wizard"
+Vitriolic Sphere,"Sorcerer, Wizard"
+Wall of Fire,"Druid, Sorcerer, Wizard"
+Watery Sphere,"Druid, Sorcerer, Wizard"
+Widogast's Vault of Amber (HB),Wizard
+Widogast's Web of Fire (HB),Wizard
+Animate Objects,"Artificer, Bard, Sorcerer, Wizard"
+Antilife Shell,Druid
+Awaken,"Bard, Druid"
+Banishing Smite,Paladin
+Bigby's Hand,"Artificer, Sorcerer, Wizard"
+Circle of Power,Paladin
+Cloudkill,"Sorcerer, Wizard"
+Commune,Cleric
+Commune with City (UA),"Sorcerer, Warlock, Wizard"
+Commune with Nature,"Druid, Ranger"
+Cone of Cold,"Druid, Sorcerer, Wizard"
+Conjure Elemental,"Druid, Wizard"
+Conjure Volley,Ranger
+Conjure Vrock (UA),"Sorcerer, Wizard"
+Contact Other Plane,"Warlock, Wizard"
+Contagion,"Cleric, Druid"
+Control Winds,"Druid, Sorcerer, Wizard"
+Creation,"Artificer, Sorcerer, Wizard"
+Danse Macabre,"Warlock, Wizard"
+Dawn,"Cleric, Wizard"
+Destructive Wave,Paladin
+Dispel Evil and Good,"Cleric, Paladin"
+Dominate Person,"Bard, Sorcerer, Wizard"
+Dream,"Bard, Warlock, Wizard"
+Enervation,"Sorcerer, Warlock, Wizard"
+Far Step,"Sorcerer, Warlock, Wizard"
+Flame Strike,Cleric
+Geas,"Bard, Cleric, Druid, Paladin, Wizard"
+Greater Restoration,"Artificer, Bard, Cleric, Druid, Ranger"
+Hallow,Cleric
+Hold Monster,"Bard, Sorcerer, Warlock, Wizard"
+Holy Weapon,"Cleric, Paladin"
+Immolation,"Sorcerer, Wizard"
+Infernal Calling,"Warlock, Wizard"
+Insect Plague,"Cleric, Druid, Sorcerer"
+Legend Lore,"Bard, Cleric, Wizard"
+Maelstrom,Druid
+Mass Cure Wounds,"Bard, Cleric, Druid"
+Mislead,"Bard, Warlock, Wizard"
+Modify Memory,"Bard, Warlock, Wizard"
+Negative Energy Flood,"Warlock, Wizard"
+Passwall,Wizard
+Planar Binding,"Bard, Cleric, Druid, Warlock, Wizard"
+Raise Dead,"Bard, Cleric, Paladin"
+Rary's Telepathic Bond,"Bard, Wizard"
+Reincarnate,Druid
+Scrying,"Bard, Cleric, Druid, Warlock, Wizard"
+Seeming,"Bard, Sorcerer, Wizard"
+Shutdown (UA),"Sorcerer, Warlock, Wizard"
+Skill Empowerment,"Artificer, Bard, Sorcerer, Wizard"
+Steel Wind Strike,"Ranger, Wizard"
+Summon Celestial,"Cleric, Paladin"
+Summon Draconic Spirit (UA),"Druid, Sorcerer, Wizard"
+Swift Quiver,Ranger
+Synaptic Static,"Bard, Sorcerer, Warlock, Wizard"
+Telekinesis,"Sorcerer, Wizard"
+Teleportation Circle,"Bard, Sorcerer, Warlock, Wizard"
+Temporal Shunt,Wizard
+Transmute Rock,"Druid, Wizard, Artificer"
+Tree Stride,"Druid, Ranger"
+Wall of Force,Wizard
+Wall Of Light,"Sorcerer, Warlock, Wizard"
+Wall of Stone,"Artificer, Druid, Sorcerer, Wizard"
+Wrath Of Nature,"Druid, Ranger"
+Arcane Gate,"Sorcerer, Warlock, Wizard"
+Blade Barrier,Cleric
+Bones of the Earth,Druid
+Chain Lightning,"Sorcerer, Wizard"
+Circle of Death,"Sorcerer, Warlock, Wizard"
+Conjure Fey,"Druid, Warlock"
+Contingency,Wizard
+Create Homunculus,Wizard
+Create Undead,"Cleric, Warlock, Wizard"
+Disintegrate,"Sorcerer, Wizard"
+Drawmij's Instant Summons,Wizard
+Druid Grove,Druid
+Eyebite,"Bard, Sorcerer, Warlock, Wizard"
+Find the Path,"Bard, Cleric, Druid"
+Fizban's Platinum Shield (UA),"Sorcerer, Wizard"
+Flesh to Stone,"Druid, Sorcerer, Warlock, Wizard"
+Forbiddance,Cleric
+Globe of Invulnerability,"Sorcerer, Wizard"
+Gravity Fissure,Wizard
+Guards and Wards,"Bard, Wizard"
+Harm,Cleric
+Heal,"Cleric, Druid"
+Heroes' Feast,"Bard, Cleric, Druid"
+Investiture of Flame,"Druid, Sorcerer, Warlock, Wizard"
+Investiture of Ice,"Druid, Sorcerer, Warlock, Wizard"
+Investiture of Stone,"Druid, Sorcerer, Warlock, Wizard"
+Investiture of Wind,"Druid, Sorcerer, Warlock, Wizard"
+Magic Jar,Wizard
+Mass Suggestion,"Bard, Sorcerer, Warlock, Wizard"
+Mental Prison,"Sorcerer, Warlock, Wizard"
+Move Earth,"Druid, Sorcerer, Wizard"
+Otherworldly Form (UA),"Cleric, Sorcerer, Warlock, Wizard"
+Otiluke's Freezing Sphere,"Sorcerer, Wizard"
+Otto's Irresistible Dance,"Bard, Wizard"
+Planar Ally,Cleric
+Primordial Ward,Druid
+Programmed Illusion,"Bard, Wizard"
+Psychic Crush (UA),"Sorcerer, Warlock, Wizard"
+Scatter,"Sorcerer, Warlock, Wizard"
+Soul Cage,"Warlock, Wizard"
+Summon Fiend,"Warlock, Wizard"
+Sunbeam,"Cleric, Druid, Sorcerer, Wizard"
+Tasha's Otherworldly Guise,"Sorcerer, Warlock, Wizard"
+Tenser's Transformation,Wizard
+Transport via Plants,Druid
+True Seeing,"Bard, Cleric, Sorcerer, Warlock, Wizard"
+Wall of Ice,Wizard
+Wall of Thorns,Druid
+Widogast's Transmogrification (HB),Wizard
+Wind Walk,Druid
+Word of Recall,Cleric
+Conjure Celestial,Cleric
+Conjure Hezrou (UA),"Sorcerer, Wizard"
+Create Magen,Wizard
+Crown Of Stars,"Sorcerer, Warlock, Wizard"
+Delayed Blast Fireball,"Sorcerer, Wizard"
+Divine Word,Cleric
+Draconic Transformation (UA),"Druid, Sorcerer, Wizard"
+Dream of the Blue Veil,"Bard, Sorcerer, Warlock, Wizard"
+Etherealness,"Bard, Cleric, Sorcerer, Warlock, Wizard"
+Finger of Death,"Sorcerer, Warlock, Wizard"
+Fire Storm,"Cleric, Druid, Sorcerer"
+Forcecage,"Bard, Warlock, Wizard"
+Mirage Arcane,"Bard, Druid, Wizard"
+Mordenkainen's Magnificent Mansion,"Bard, Wizard"
+Mordenkainen's Sword,"Bard, Wizard"
+Plane Shift,"Cleric, Druid, Sorcerer, Warlock, Wizard"
+Power Word: Pain,"Sorcerer, Warlock, Wizard"
+Prismatic Spray,"Bard, Sorcerer, Wizard"
+Project Image,"Bard, Warlock, Wizard"
+Regenerate,"Bard, Cleric, Druid"
+Resurrection,"Bard, Cleric"
+Reverse Gravity,"Druid, Sorcerer, Wizard"
+Sequester,Wizard
+Simulacrum,Wizard
+Symbol,"Bard, Cleric, Druid, Wizard"
+Teleport,"Bard, Sorcerer, Wizard"
+Temple of the Gods,Cleric
+Tether Essence,Wizard
+Whirlwind,"Druid, Wizard"
+Abi-Dalzim's Horrid Wilting,"Sorcerer, Warlock, Wizard"
+Animal Shapes,Druid
+Antimagic Field,"Cleric, Wizard"
+Antipathy/Sympathy,"Bard, Druid, Wizard"
+Clone,Wizard
+Control Weather,"Cleric, Druid, Wizard"
+Dark Star,Wizard
+Demiplane,"Sorcerer, Warlock, Wizard"
+Dominate Monster,"Bard, Sorcerer, Warlock, Wizard"
+Earthquake,"Cleric, Druid, Sorcerer"
+Feeblemind,"Bard, Druid, Warlock, Wizard"
+Glibness,"Bard, Warlock"
+Holy Aura,Cleric
+Illusory Dragon,Wizard
+Incendiary Cloud,"Druid, Sorcerer, Wizard"
+Maddening Darkness,"Warlock, Wizard"
+Maze,Wizard
+Mighty Fortress,Wizard
+Mind Blank,"Bard, Wizard"
+Power Word: Stun,"Bard, Sorcerer, Warlock, Wizard"
+Reality Break,Wizard
+Sunburst,"Cleric, Druid, Sorcerer, Wizard"
+Telepathy,Wizard
+Tsunami,Druid
+Astral Projection,"Cleric, Warlock, Wizard"
+Blade of Disaster,"Sorcerer, Warlock, Wizard"
+Foresight,"Bard, Druid, Warlock, Wizard"
+Gate,"Cleric, Sorcerer, Warlock, Wizard"
+Imprisonment,"Warlock, Wizard"
+Invulnerability,Wizard
+Mass Heal,Cleric
+Mass Polymorph,"Bard, Sorcerer, Wizard"
+Meteor Swarm,"Sorcerer, Wizard"
+Power Word: Heal,"Bard, Cleric"
+Power Word: Kill,"Bard, Sorcerer, Warlock, Wizard"
+Prismatic Wall,"Bard, Wizard"
+Psychic Scream,"Bard, Sorcerer, Warlock, Wizard"
+Ravenous Void,Wizard
+Shapechange,"Druid, Warlock, Wizard"
+Storm of Vengeance,Druid
+Time Ravage,Wizard
+Time Stop,"Sorcerer, Wizard"
+True Polymorph,"Bard, Warlock, Wizard"
+True Resurrection,"Cleric, Druid"
+Weird,"Warlock, Wizard"
+Wish,"Sorcerer, Wizard"

@@ -1,0 +1,139 @@
+@media print {
+
+    /* Hide everything except spell results */
+    body>*:not(.container),
+    .container>*:not(#results-container),
+    #results-container>*:not(#spell-results) {
+        display: none !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        height: 0 !important;
+        min-height: 0 !important;
+    }
+
+    body {
+        background: white;
+        color: black;
+        padding: 0;
+        margin: 0;
+        font-size: 11pt;
+    }
+
+    .container {
+        width: 100%;
+        max-width: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    h1 {
+        font-size: 18pt;
+        color: black;
+    }
+
+    /* Spell cards layout */
+    #spell-results {
+        column-count: 2;
+        column-gap: 1.5em;
+        orphans: 10;
+        widows: 10;
+        break-inside: avoid-page;
+    }
+
+    .spell-card {
+        break-inside: avoid-page;
+        margin-bottom: 1em;
+        display: inline;
+        /* border: 1px solid #000; */
+        border: none !important;
+        background: none;
+        box-shadow: none;
+        margin-bottom: 0.5em !important;
+        border: 0.5pt solid #000;
+        /* break-after: column; */
+    }
+
+    .spell-card * {
+        line-height: 1.1rem;
+    }
+
+    /* Spell header colors for print */
+    .spell-card[data-level] .spell-header {
+        background: none !important;
+        border-bottom: 1px solid #000;
+        font-size: 9pt;
+        padding: 0.25rem 0.5rem !important;
+    }
+
+    /* .spell-header {
+        display: inline-flex;
+    } */
+
+    .spell-name,
+    .spell-data {
+        font-size: 8pt;
+        margin: 0.25em 0 !important;
+        padding: 0 0.25em !important;
+        line-height: 1.2 !important;
+        break-inside: avoid;
+    }
+
+    .spell-meta {
+        color: #444;
+    }
+
+    .spell-info {
+        padding: 0.5em;
+    }
+
+    /* Text formatting */
+    .spell-name,
+    .spell-data {
+        font-size: 10pt;
+        margin: 0.25em 0 !important;
+        padding: 0 0.25em !important;
+        line-height: 1.2 !important;
+    }
+
+    .spell-data strong {
+        .spell-description {
+            font-size: 8pt;
+            line-height: 1.3 !important;
+            padding: 0 0.25em !important;
+        }
+
+        .spell-description strong {
+            color: black;
+        }
+
+        /* Remove highlights */
+        .highlight,
+        .highlight-strong {
+            background: none;
+            font-weight: inherit;
+        }
+
+        /* Page breaks */
+        @page {
+            margin: 0.75cm;
+        }
+
+        /* Links */
+        a {
+            text-decoration: none;
+            color: black;
+        }
+
+        /* Ensure spell results container takes full width */
+        #spell-results {
+            width: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        /* Optimize ink usage */
+        * {
+            -webkit-print-color-adjust: exact;
+            print-color-adjust: exact;
+        }
+    }

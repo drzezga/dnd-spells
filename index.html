@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>D&D 5e Spell Compendium</title>
+    <link rel="stylesheet" href="index.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=Crimson+Text:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="print.css">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Spell Compendium</h1>
+        </header>
+
+        <div class="search-container">
+            <div class="search-wrapper">
+                <input type="text" id="spell-search" placeholder="Search for a spell..." autocomplete="off">
+                <kbd class="shortcut-hint">/</kbd>
+            </div>
+            <div class="filter-controls">
+                <div class="filter-group">
+                    <label for="level-filter">Level</label>
+                    <select id="level-filter">
+                        <option value="">Any Level</option>
+                        <option value="cantrip">Cantrip</option>
+                        <option value="1st-level">1st Level</option>
+                        <option value="2nd-level">2nd Level</option>
+                        <option value="3rd-level">3rd Level</option>
+                        <option value="4th-level">4th Level</option>
+                        <option value="5th-level">5th Level</option>
+                        <option value="6th-level">6th Level</option>
+                        <option value="7th-level">7th Level</option>
+                        <option value="8th-level">8th Level</option>
+                        <option value="9th-level">9th Level</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label for="school-filter">School</label>
+                    <select id="school-filter">
+                        <option value="">Any School</option>
+                        <option value="abjuration">Abjuration</option>
+                        <option value="conjuration">Conjuration</option>
+                        <option value="divination">Divination</option>
+                        <option value="enchantment">Enchantment</option>
+                        <option value="evocation">Evocation</option>
+                        <option value="illusion">Illusion</option>
+                        <option value="necromancy">Necromancy</option>
+                        <option value="transmutation">Transmutation</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label for="class-filter">Class</label>
+                    <select id="class-filter">
+                        <option value="">Any Class</option>
+                        <option value="artificer">Artificer</option>
+                        <option value="bard">Bard</option>
+                        <option value="cleric">Cleric</option>
+                        <option value="druid">Druid</option>
+                        <option value="paladin">Paladin</option>
+                        <option value="ranger">Ranger</option>
+                        <option value="sorcerer">Sorcerer</option>
+                        <option value="warlock">Warlock</option>
+                        <option value="wizard">Wizard</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+
+        <div id="results-container">
+            <div class="results-count">
+                <span id="spells-count">0</span> spells found
+            </div>
+            <div id="spell-results"></div>
+        </div>
+    </div>
+
+    <template id="spell-template">
+        <div class="spell-card">
+            <div class="spell-header">
+                <h2 class="spell-name"></h2>
+                <div class="spell-meta">
+                    <span class="spell-level"></span>
+                    <span class="spell-school"></span>
+                </div>
+            </div>
+            <div class="spell-info">
+                <div class="spell-data">
+                    <div><strong>Casting Time:</strong> <span class="spell-casting-time"></span></div>
+                    <div><strong>Range:</strong> <span class="spell-range"></span></div>
+                    <div><strong>Duration:</strong> <span class="spell-duration"></span></div>
+                    <div><strong>Components:</strong> <span class="spell-components"></span></div>
+                </div>
+                <div class="spell-description"></div>
+            </div>
+        </div>
+    </template>
+
+    <footer>
+        <p>CSV Data from <a href="https://github.com/random-wizard/1d20-5e-srd/blob/main/csv/spells.csv">here</a> and <a href="https://github.com/wjsutton/games_night_viz/blob/main/challenges/9_bonus_challenges/202206_datafamcon_dnd/dnd-spells.csv">here</a>.</p><p>Contains material from the 5e System Reference Document (SRD) under the Open Game License v1.0a. © 2016 Wizards of the Coast LLC.</p>
+    </footer>
+
+    <script src="index.js"></script>
+</body>
+</html>
