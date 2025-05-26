@@ -38,19 +38,23 @@
         orphans: 10;
         widows: 10;
         break-inside: avoid-page;
+        gap: 3rem;
+        column-gap: 2rem;
     }
 
     .spell-card {
         break-inside: avoid-page;
-        margin-bottom: 1em;
+        /* margin-bottom: 3rem; */
         display: inline;
         /* border: 1px solid #000; */
         border: none !important;
         background: none;
         box-shadow: none;
-        margin-bottom: 0.5em !important;
+        margin-bottom: 3rem !important;
         border: 0.5pt solid #000;
         /* break-after: column; */
+        column-gap: 2rem;
+        gap: 3rem;
     }
 
     .spell-card * {
@@ -62,28 +66,27 @@
         background: none !important;
         border-bottom: 1px solid #000;
         font-size: 9pt;
-        padding: 0.25rem 0.5rem !important;
+        /* padding: 0.25rem 0.5rem !important; */
     }
 
-    /* .spell-header {
-        display: inline-flex;
-    } */
-
-    .spell-name,
-    .spell-data {
-        font-size: 8pt;
-        margin: 0.25em 0 !important;
-        padding: 0 0.25em !important;
-        line-height: 1.2 !important;
-        break-inside: avoid;
+    .spell-info {
+        display: inline-block;
+        width: 100%;
     }
+
 
     .spell-meta {
         color: #444;
     }
 
-    .spell-info {
-        padding: 0.5em;
+    .spell-info,
+    .spell-name,
+    .spell-data,
+    .spell-description,
+    .spell-header {
+        /* padding: 0.5em; */
+        padding: 0 !important;
+
     }
 
     /* Text formatting */
@@ -91,7 +94,7 @@
     .spell-data {
         font-size: 10pt;
         margin: 0.25em 0 !important;
-        padding: 0 0.25em !important;
+        /* padding: 0 0.25em !important; */
         line-height: 1.2 !important;
     }
 
@@ -99,7 +102,7 @@
         .spell-description {
             font-size: 8pt;
             line-height: 1.3 !important;
-            padding: 0 0.25em !important;
+            /* padding: 0 0.25em !important; */
         }
 
         .spell-description strong {

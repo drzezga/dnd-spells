@@ -202,7 +202,7 @@ select:focus {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    gap: 1rem;
+    /* gap: 1rem; */
 }
 
 /* Level-based header colors */
@@ -263,15 +263,15 @@ select:focus {
     flex-shrink: 0;
 }
 
-.spell-info {
+/* .spell-info {
     padding: 1rem;
-}
+} */
 
 .spell-data {
-    margin-bottom: 1rem;
+    /* margin-bottom: 1rem; */
     font-size: 0.95rem;
     border-bottom: 1px solid var(--parchment-dark);
-    padding-bottom: 1rem;
+    padding: 1rem;
 }
 
 .spell-data div {
@@ -286,6 +286,7 @@ select:focus {
 .spell-description {
     font-size: 0.95rem;
     line-height: 1.6;
+    padding: 1rem;
 }
 
 /* Markdown styles */
